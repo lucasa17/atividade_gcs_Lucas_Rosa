@@ -1,0 +1,1 @@
+Gerenciamento de configuração de software e git, são formas de como podemos organizar e realizar melhor nossos projetos de desenvolvimento de software, ou seja, a utilização de ferramentas ou padrões de projetos para facilitar a criação do prjeto no geral.
